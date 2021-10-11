@@ -1,6 +1,8 @@
-# PySpark - Learn to work in Big Data framework - Spark.
-## Authors: Sana Rasheed & Zeeshan-ul-hassan Usmani
-## Book Language: Urdu 
+# PySpark
+## Learn to work in Big Data framework - Spark.
+
+### Authors: Sana Rasheed & Zeeshan-ul-hassan Usmani
+### Book Language: Urdu 
 
 
 ### Dear Readers,
